@@ -1,10 +1,24 @@
+![Project Snapshot]()
 
-## Expected Outcome
+[👉 click here to view the page](https://msaiduslu.github.io/Warcraft-Page-Bootstrap/)
 
-![Project 006 Snapshot](Screenshot_Project.png)
+# Project : To-Do List App
 
+Project aims to create a simple To-Do App.
 
+## Project Skeleton
 
+```
+002-To-Do App (folder)
+|
+|----readme.md
+|----index.html
+|----style.css
+|----App.js
+```
 
+### At the end of the project, i will be able to;
 
-<center> ⌛ Happy Coding  ✍ </center>
+- improve coding skills within HTML & CSS & JS
+
+- use git commands (push, pull, commit, add etc.) and Github as Version Control System.
